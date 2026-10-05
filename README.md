@@ -4,6 +4,11 @@ Deep learning project for multi-class image classification using **TensorFlow/Ke
 
 The project applies transfer learning and fine-tuning to the **Fruits-360** dataset, containing images of fruits and vegetables distributed across 206 classes.
 
+## Project Files
+
+- [View Jupyter Notebook](notebooks/image_classification_efficientnetv2s.ipynb)
+- [View Project Presentation](docs/presentation.pdf)
+
 ## Project Overview
 
 The objective of this project was to develop an image classification model capable of identifying different fruit and vegetable classes.
@@ -66,6 +71,8 @@ The final model achieved approximately:
 ## Repository Structure
 
     Image-Classification-EfficientNetV2S/
+    ├── docs/
+    │   └── presentation.pdf
     ├── notebooks/
     │   └── image_classification_efficientnetv2s.ipynb
     ├── README.md
