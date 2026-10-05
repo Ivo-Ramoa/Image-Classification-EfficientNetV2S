@@ -7,7 +7,7 @@ The project applies transfer learning and fine-tuning to the **Fruits-360** data
 ## Project Files
 
 - [View Jupyter Notebook](notebooks/image_classification_efficientnetv2s.ipynb)
-- [View Project Presentation](docs/presentation.pdf)
+- [View Project Presentation](presentation.pdf)
 
 ## Project Overview
 
@@ -71,8 +71,7 @@ The final model achieved approximately:
 ## Repository Structure
 
     Image-Classification-EfficientNetV2S/
-    ├── docs/
-    │   └── presentation.pdf
+    ├── presentation.pdf
     ├── notebooks/
     │   └── image_classification_efficientnetv2s.ipynb
     ├── README.md
