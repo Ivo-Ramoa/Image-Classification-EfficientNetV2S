@@ -20,6 +20,3 @@ datasets/
 *.h5
 *.keras
 *.ckpt
-
-# Original academic presentation
-IPVC-EI-IA-Trab-2E-Análise de Imagens com CNNs.pdf
