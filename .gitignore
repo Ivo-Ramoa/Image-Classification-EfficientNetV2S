@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datasets
+data/
+dataset/
+datasets/
+
+# Trained models
+*.h5
+*.keras
+*.ckpt
+
+# Original academic presentation
+IPVC-EI-IA-Trab-2E-Análise de Imagens com CNNs.pdf
